@@ -23,3 +23,6 @@ Following is the description for the way the code works:
 5. Next, number of layers 
 6. A screen pops up, select the ROI on it as described in the NOTE1.  
 7. In some time, the blended image pops up.  
+
+
+NOTE: All the images have been taken from google and upsclaed/downsclaed as required.
